@@ -1,0 +1,8 @@
+requests
+datetime
+PyYAML
+pathlib
+simple_salesforce
+python-dotenv
+psycopg[binary]
+pandas
