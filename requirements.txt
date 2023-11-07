@@ -4,5 +4,5 @@ PyYAML
 pathlib
 simple_salesforce
 python-dotenv
-psycopg[binary]
+psycopg2
 pandas
