@@ -1,4 +1,5 @@
-FROM python:3.9.18-bullseye
+#FROM python:3.9.18-bullseye
+FROM summerwind/actions-runner:latest
 
 COPY . .
 
